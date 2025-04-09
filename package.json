@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "koa": "2.2.0",
+    "koa": "2.16.1",
     "koa-bodyparser": "^4.3.0",
     "koa-router": "^8.0.0-alpha.1",
     "reflect-metadata": "0.1.10",
